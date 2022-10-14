@@ -4,7 +4,7 @@ void setup ()
 {
   pinMode(laserPin, OUTPUT);
 }
-//Setup
+//setup
 void loop () {
   digitalWrite(laserPin, HIGH);
   delay(100);
